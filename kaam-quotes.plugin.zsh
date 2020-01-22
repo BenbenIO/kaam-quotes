@@ -1,7 +1,7 @@
 
 function kaam {
     # Set name and path
-    file_path="$HOME/.oh-my-zsh/custom/plugins/kaam-quote/"
+    file_path="$HOME/.oh-my-zsh/custom/plugins/kaam-quotes/"
     file_name="kaamelott_quote.txt"
     input="$file_path$file_name"
 
